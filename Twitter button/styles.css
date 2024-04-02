@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  margin-top: 50px; /* Space at the top margin */
+}
+
+.login-box {
+  text-align: center;
+}
+
+.twitter-login {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #1da1f2; /* Blue color */
+  color: white;
+  border: none;
+  border-radius: 20px; /* Rounded edges */
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow */
+}
+
+.twitter-login:hover {
+  background-color: #0e71c8; /* Darker blue on hover */
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); /* Slightly larger shadow on hover */
+}
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  margin-top: 50px; /* Space at the top margin */
+}
+
+.login-box {
+  text-align: center;
+}
+
+.twitter-login {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #1da1f2; /* Blue color */
+  color: white;
+  border: none;
+  border-radius: 20px; /* Rounded edges */
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow */
+}
+
+.twitter-login:hover {
+  background-color: #0e71c8; /* Darker blue on hover */
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); /* Slightly larger shadow on hover */
+}
